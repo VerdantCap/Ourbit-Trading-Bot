@@ -1,0 +1,12 @@
+/* src/components/ColorfulTable.css */
+.green-row {
+  background-color: lightgreen;
+}
+
+.red-row {
+  background-color: lightcoral;
+}
+
+.gray-row {
+  background-color: blanchedalmond;
+}
